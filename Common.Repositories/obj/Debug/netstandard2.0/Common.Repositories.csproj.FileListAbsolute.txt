@@ -1,0 +1,12 @@
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\bin\Debug\netstandard2.0\Common.Repositories.deps.json
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\bin\Debug\netstandard2.0\Common.Repositories.dll
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\bin\Debug\netstandard2.0\Common.Repositories.pdb
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.csprojAssemblyReference.cache
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.AssemblyInfo.cs
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.csproj.CopyComplete
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.dll
+C:\Users\Family\source\repos\ForumComments\Common.Repositories\obj\Debug\netstandard2.0\Common.Repositories.pdb
